@@ -1,0 +1,7 @@
+{
+  "name": "MediAlert",
+  "description": "Smart medicine reminder and tracker with Indian language voice-overs, photo prescription tagging, food condition guides, weekly compliance tracking, and senior-friendly accessibility.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
